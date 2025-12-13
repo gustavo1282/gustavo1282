@@ -1,10 +1,20 @@
-# Gustavo Soares de Souza
+## 👋 Hi, I'm Gustavo
 
-Tech Lead & Project Lead com forte atuação em liderança técnica e transformação digital.
+Engineering Leader with strong background in backend systems, architecture and team development.
+Focused on building scalable solutions while empowering people and fostering ownership.
 
-🔹 Meios de Pagamento | Adquirência | Sistemas Financeiros  
-🔹 Liderança de times LATAM  
-🔹 Engenharia, Observabilidade e Plataformas Críticas  
+### 🚀 What I do
+- Technical leadership and system design
+- Backend development (Java, Spring, APIs)
+- Team mentoring and delivery excellence
+- Product-oriented engineering mindset
 
-📄 [Currículo completo](./CV.md)  
+### 🧭 Currently
+- Tech Lead / Engineering Manager
+- Exploring architecture, performance and security
+- Sharing knowledge and building meaningful products
+
+### 📫 Let's connect
+- 📄 [Profile](./CV.md)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-souza-68b34335/)
+
