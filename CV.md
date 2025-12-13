@@ -1,7 +1,6 @@
 # Gustavo Soares de Souza
 
 📍 São Paulo, SP  
-📞 +55 11 98475-8030  
 📧 gustavo1282@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-souza-68b34335/)
 
@@ -9,19 +8,9 @@
 
 ## Áreas de Interesse
 
-- Project Lead  
-- Tech Lead  
-- Chapter Lead  
+- Project Lead | Tech Lead | Specialist
+- Meios de Pagamentos | Banking | Telecom | Java | Microservices | API
 
----
-
-## Idiomas
-
-- **Português:** Nativo  
-- **Espanhol:** Intermediário  
-- **Inglês:** Básico  
-
----
 
 ## Resumo Profissional
 
