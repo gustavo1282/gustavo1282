@@ -16,6 +16,6 @@ Focused on building scalable solutions while empowering people and fostering own
 
 ### 📫 Let's connect
 - 🇧🇷 [Profile_PT](./CV.md)  
-- 🇪🇸 [Profile_ES](./CV_ES.md
+- 🇪🇸 [Profile_ES](./CV_ES.md)
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-souza-68b34335/)
 
