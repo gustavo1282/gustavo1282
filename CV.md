@@ -7,7 +7,7 @@
 ---
 
 ## 👔 Áreas de Interesse
-**Project Lead | Coordenador Técnico | Tech Lead**  
+**Project Lead | Tech Lead | Coordenador Técnico**  
 Meios de Pagamentos • Banking • Telecom • Transformação Digital
 
 ---
@@ -60,7 +60,7 @@ Conduzi iniciativas focadas em excelência operacional, liderando equipes multid
 ---
 
 ### Especialista | Arquitetura de Soluções de Call Center
-## Claro Brasil · ago/2011 – ago/2018 · São Paulo, SP
+**Claro Brasil** · ago/2011 – ago/2018 · São Paulo, SP
 
 - Atuei como especialista técnico na arquitetura e desenvolvimento de soluções de integração para Call Center, garantindo identificação de clientes, automação de serviços e eficiência operaciona.
 - Conduzi tecnicamente projetos corporativos de grande porte, incluindo a implantação do Call Center Huawei (IPCC), assegurando estabilidade, escalabilidade e aderência aos requisitos de negócio.
