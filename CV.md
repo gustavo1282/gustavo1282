@@ -2,7 +2,7 @@
 
 📍 São Paulo, SP  
 📧 gustavo1282@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com)
+🔗 LinkedIn: https://www.linkedin.com
 
 ---
 
@@ -13,75 +13,64 @@ Meios de Pagamentos • Banking • Telecom • Transformação Digital
 ---
 
 ## 🧭 Resumo Profissional
-Líder técnico com forte atuação em gestão de pessoas, produto e delivery, conduzindo iniciativas estratégicas e projetos de alta complexidade em grandes corporações. Experiência consolidada em meios de pagamento, adquirência, telefonia e setor bancário, atuando como elo entre negócio, produto e engenharia.
+Líder técnico e de projetos com forte atuação na condução de times, soluções e entregas em ambientes de alta complexidade. Atuei de forma consistente em meios de pagamento, banking e telecom, sendo o elo entre engenharia, produto e negócio.
 
-Atuação consistente na liderança de times multidisciplinares na América Latina, estruturando backlogs orientados a MVPs, garantindo previsibilidade de entregas, eficiência operacional e redução de riscos financeiros por meio de soluções tecnológicas escaláveis.
+Conduzi iniciativas focadas em excelência operacional, liderando equipes multidisciplinares, definindo soluções técnicas escaláveis e assumindo a condução de projetos críticos. Atuei diretamente com PO e PMO na estratégia de entregas, priorização de backlog e definição de MVPs, garantindo previsibilidade e redução de riscos.
 
 ---
 
 ## 🚀 Resumo de Impacto
-- Liderança de equipes multidisciplinares LATAM  
-- Atuação estratégica entre produto, negócio e engenharia  
-- Condução de projetos complexos com foco em MVP e entrega contínua  
-- Aumento de eficiência operacional e previsibilidade de delivery  
-- Redução de perdas financeiras e riscos operacionais  
+- Liderei tecnicamente e gerenciei times multidisciplinares LATAM  
+- Conduzi projetos complexos com foco em previsibilidade e eficiência operacional  
+- Traduzi necessidades de negócio em soluções técnicas escaláveis  
+- Atuei junto a PO e PMO na priorização de backlog, prazos e roadmap  
 
 ---
 
 ## 💼 Experiência Profissional
 
 ### Project Lead | Engenharia de Gateways de Pagamento (LATAM)  
-**Mercado Livre** · mai/2024 – ago/2025 · Osasco, SP · Híbrido  
+**Mercado Livre** · mai/2024 – ago/2025 · Híbrido  
 
-- Liderança de squads multiculturais LATAM, com foco no desenvolvimento de pessoas (1:1s, PDIs) e formação de times de alta performance.  
-- Atuação como ponto focal entre produto, negócio e engenharia, conduzindo entendimento de demandas, definição de MVPs e execução de backlogs estruturados.  
-- Garantia de alta disponibilidade e redundância em gateways de pagamento por meio de roteamento inteligente, elevando taxas de aprovação com parceiros estratégicos.  
-- Condução de análises de causa raiz (RCA) em processos críticos, reduzindo chargebacks e perdas financeiras.  
-- Apoio direto ao PO — e atuação como responsável pela função quando necessário — na negociação de prazos, gestão de dependências, fornecedores e remoção de impedimentos.  
+- Liderei squads multiculturais LATAM, com foco em desenvolvimento de pessoas e gestão de performance.  
+- Conduzi tecnicamente soluções de gateways de pagamento, garantindo estabilidade e alta disponibilidade.  
+- Atuei diretamente com times de engenharia, assegurando qualidade técnica e eficiência operacional.  
+- Removi impedimentos técnicos e de negócio, garantindo fluidez e previsibilidade no delivery.  
 
 ---
 
 ### Líder Técnico | Meios de Pagamento & Observabilidade  
-**Dock** · out/2020 – abr/2024 · Barueri, SP · Remoto  
+**Dock** · out/2020 – abr/2024 · Remoto  
 
-- Liderança técnica na implantação de soluções de cartões de crédito e débito para grandes emissores (C6, XP, Porto, Neon).  
-- Atuação próxima aos times de produto e PMO na estruturação de backlogs, priorização de entregas e definição de MVPs.  
-- Desenvolvimento de APIs para serviços financeiros críticos e carteiras digitais.  
-- Definição e acompanhamento de KPIs e OKRs de produto (TPV/TPN), promovendo otimização contínua.  
-- Liderança da área de observabilidade com Grafana, Splunk e New Relic, reduzindo riscos operacionais e downtime.  
+- Liderei tecnicamente o desenvolvimento de soluções de cartões e serviços financeiros críticos.  
+- Defini arquiteturas escaláveis e implementei práticas de observabilidade para ambientes de missão crítica.  
+- Conduzi a gestão técnica das entregas, garantindo estabilidade, performance e mitigação de riscos.  
+- Atuei diretamente com times de engenharia na evolução contínua das plataformas.  
 
 ---
 
 ### Líder Técnico | Pagamentos e Conciliação  
-**Cielo** · set/2018 – set/2020 · Barueri, SP · Híbrido  
+**Cielo** · set/2018 – set/2020 · Híbrido  
 
-- Liderança técnica no desenvolvimento e manutenção do portal de BackOffice de pagamentos (acreditação, cancelamentos e chargebacks).  
-- Atuação como elo entre times técnicos e de negócio, garantindo alinhamento de processos, prazos e implantações (GMud / CAB).  
-- Condução de integrações financeiras e soluções de conciliação com a CIP, além de desenvolvimento de pipelines ETL.  
-
----
-
-### Especialista | Arquitetura de Soluções de Call Center  
-**Claro Brasil** · ago/2011 – ago/2018 · São Paulo, SP  
-
-- Arquitetura e desenvolvimento de soluções de integração para Call Center, garantindo identificação de clientes e automação de serviços.  
-- Liderança técnica na implantação de grandes projetos corporativos, incluindo o Call Center Huawei (IPCC).  
-- Responsável pela construção do portal interno de gestão de URAs, campanhas, falhas e outages.  
+- Liderei tecnicamente soluções de pagamentos, conciliação financeira e gestão de chargebacks.  
+- Atuei diretamente com times técnicos, garantindo qualidade, prazos e aderência a processos.  
+- Conduzi integrações financeiras e pipelines de dados críticos.  
+- Assegurei confiabilidade operacional em sistemas financeiros.  
 
 ---
 
 ## 🎓 Formação Acadêmica
 **MBA em Ciência de Dados** – Universidade Presbiteriana Mackenzie  
-**Tecnologia em Gestão de Sistemas de Informação** – UNINOVE (2006 – 2008)
+**Tecnologia em Gestão de Sistemas de Informação** – UNINOVE  
 
 ---
 
 ## 🛠️ Competências
 **Linguagens:** Java, Golang  
-**Arquitetura & Integrações:** Microserviços, APIs REST, ISO-8583, XML, JSON  
+**Arquitetura & Integrações:** Microserviços, APIs REST, ISO-8583  
 **Observabilidade:** Grafana, Splunk, New Relic  
 **Gestão:** Scrum, Kanban, OKRs, KPIs, RCA  
-**Infraestrutura:** ETL, Control-M, Cloud (AWS, GCP)  
+**Infraestrutura:** ETL, Cloud (AWS, GCP)  
 **IA & Produtividade:** Copilot, Windsurf, Cursor  
 
 ---
