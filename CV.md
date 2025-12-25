@@ -55,7 +55,17 @@ Conduzi iniciativas focadas em excelência operacional, liderando equipes multid
 - Liderei tecnicamente soluções de pagamentos, conciliação financeira e gestão de chargebacks.  
 - Atuei diretamente com times técnicos, garantindo qualidade, prazos e aderência a processos.  
 - Conduzi integrações financeiras e pipelines de dados críticos.  
-- Assegurei confiabilidade operacional em sistemas financeiros.  
+- Assegurei confiabilidade operacional em sistemas financeiros.
+
+---
+
+### Especialista | Arquitetura de Soluções de Call Center
+## Claro Brasil · ago/2011 – ago/2018 · São Paulo, SP
+
+- Atuei como especialista técnico na arquitetura e desenvolvimento de soluções de integração para Call Center, garantindo identificação de clientes, automação de serviços e eficiência operaciona.
+- Conduzi tecnicamente projetos corporativos de grande porte, incluindo a implantação do Call Center Huawei (IPCC), assegurando estabilidade, escalabilidade e aderência aos requisitos de negócio.
+- Liderei tecnicamente o desenvolvimento do portal interno de gestão de URAs, campanhas, falhas e outages, aumentando controle operacional e visibilidade para áreas técnicas e de negócio.
+- Atuei como ponto focal entre áreas técnicas, fornecedores e negócio, removendo impedimentos técnicos e garantindo fluidez nas entregas.
 
 ---
 
