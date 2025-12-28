@@ -13,7 +13,9 @@ Meios de Pagamentos • Banking • Telecom • Transformação Digital
 ---
 
 ## 📝 Resumo Profissional
-Líder técnico e de projetos com forte atuação na condução de times, soluções e entregas em ambientes de alta complexidade. Atuei de forma consistente em meios de pagamento, banking e telecom, sendo o elo entre engenharia, produto e negócio.
+
+Profissional de TI com ampla experiência na liderança de times de engenharia, desenvolvimento e projetos, atuando na condução de soluções e entregas em ambientes de alta complexidade. Atuei de forma consistente em meios de pagamento, banking e telecom, sendo o elo entre engenharia, produto e negócio.
+.
 
 Conduzi iniciativas focadas em excelência operacional, liderando equipes multidisciplinares, definindo soluções técnicas escaláveis e assumindo a condução de projetos críticos. Atuei diretamente com PO e PMO na estratégia de entregas, priorização de backlog e definição de MVPs, garantindo previsibilidade e redução de riscos.
 
