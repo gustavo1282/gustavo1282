@@ -34,4 +34,4 @@ Uma API REST robusta construída com Spring Boot 3.4.10 para gerenciar o ciclo d
 ## 📫 Conecte-se comigo
 
 🇧🇷 Perfil Técnico Completo: [PROFILE_PT](./PROFILE_PT.md)  
-🔗 LinkedIn: https://linkedin.com/in/SEU-LINK
+🔗 LinkedIn: [gustavo-souza-68b34335/](https://www.linkedin.com/in/gustavo-souza-68b34335/)
