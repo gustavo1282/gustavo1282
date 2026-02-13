@@ -2,9 +2,9 @@
 
 **Tech Lead | Engenharia Backend & Plataformas de Pagamento | Sistemas Distribuídos**
 
-Atuo na interseção entre liderança técnica, arquitetura e execução hands-on, construindo soluções escaláveis para ambientes financeiros e sistemas críticos.
+Atuo como Tech Lead e Staff Engineer, conectando direção técnica, arquitetura e execução hands-on na construção de plataformas financeiras de missão crítica.
 
-Experiência liderando squads multiculturais LATAM, conectando engenharia, produto e estratégia em projetos distribuídos de alta complexidade.
+Lidero iniciativas técnicas e influencio decisões arquiteturais que impactam múltiplos times, aproximando engenharia, produto e estratégia para garantir escalabilidade, confiabilidade e eficiência em ambientes distribuídos de alta complexidade.
 
 ---
 
